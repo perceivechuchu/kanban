@@ -1,0 +1,21 @@
+.main-card {
+    margin-top: 20px;
+    background-color: #949AAC;
+    border-radius: 15px;
+    padding-bottom: 8px; 
+}
+
+.kanban-title {
+    font-weight: semi-bold;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.kanban-created-date {
+    position: relative;
+    font-size: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: right;
+    padding-left: 2em;
+}
